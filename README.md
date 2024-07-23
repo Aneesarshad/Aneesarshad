@@ -4,21 +4,21 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aneesarshad&style=flat-square&color=blue)
 
-## About Me:
+## About Me
 
-🧑‍💼 I'm currently working on Data Mining, Data Engineering, Data Analysis, ML Algorithms and DL Algorithms.
+🧑‍💼 I'm currently working on Data Mining, Data Engineering, Data Analysis, ML Algorithms, and DL Algorithms.
 
 💬 Ask me about anything related to Data Science!
 
-## Socials:
+## Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1043065868923457556)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aliahmed_._?igsh=OWxibWNiOHloZHNz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aneesarshad_)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmed-hustletothemax92/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anees-arshad/)
 
-## Tech Stack:
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -56,7 +56,7 @@
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 ![MLflow](https://img.shields.io/badge/MLflow-%230072C6.svg?style=for-the-badge&logo=MLflow&logoColor=white)
 
@@ -70,7 +70,7 @@
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-## GitHub Stats:
+## GitHub Stats
 
 ### Anees Arshad's GitHub Stats
 
@@ -89,8 +89,6 @@
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## Top Contributed Repos
-
-<!-- This section will dynamically fetch the top contributed repositories -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aneesarshad&repo=Inventory-Management-System&theme=dark)](https://github.com/aneesarshad/Inventory-Management-System)
 
